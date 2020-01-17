@@ -3,13 +3,13 @@
 
 ## Dataset properties ##
 
-Total number of images: 82213.
+Total number of images: 666.
 
-Training set size: 61488 images (one fruit per image).
+Training set size: 490 images (one fruit per image).
 
-Test set size: 20622 images (one fruit per image).
+Test set size: 166 images (one fruit per image).
 
-Multi-fruits set size: 103 images (more than one fruit per image)
+Multi-fruits set size: 10 images (more than one fruit per image)
 
 Image size: 100x100 pixels.
 
